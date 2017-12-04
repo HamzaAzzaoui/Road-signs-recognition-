@@ -1,8 +1,8 @@
-##Introduction :
+## Introduction :
 
 This repository contains the work I have done with colleagues on the road sign detection project at the ENSEM. The project was meant to be the basis of a more devolleped computer vision model that would be later added to the Twizzy, an electric vehicle created jointly by the ENSEM and Renault.
 
-##Description of project :
+## Description of project :
 
 The project is mainly about the detection and recognition of road signs in 2D images.
 
@@ -29,7 +29,7 @@ The code is in Java and we used the OpenCV library available for free here https
 
  - Run "FenetrePrincipale.java" : This will open a graphical interface that will allows you to choose between 3 types of modes.
 
-##Modes
+## Modes
 
 The project allows you to :
  - "Mode automatique" allows you to directly determine the reference image closest to your actual image.
